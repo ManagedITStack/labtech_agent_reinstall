@@ -1,4 +1,4 @@
-lt_gpo_install_reinstall
+labtech_agent_reinstall
 ========================
 
 **Original Author:** MartynKeigher in ##labtech on Freenode
