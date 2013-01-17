@@ -1,5 +1,4 @@
 @echo off
-REM
 If EXIST c:\windows\ltsvc\ltsvc.exe GOTO EXIT
 GOTO INSTALL
 
